@@ -6,12 +6,12 @@ An application using http://api.zippopotam.us/ to get zip  codes.
 
 * Clone the repo: `git clone https://github.com/bayoishola20/zipcode`
 
-* Type in a number and get its random fact
-* Type a year and get its random fact
+* Type in a US zip code and get details.
+* I should increase search beyond US soon.
 
 &rightarrow; Requests are made using the Fetch API
 
-![Preview](https://github.com/bayoishola20/numbers_api/blob/master/assets/img/zipcode_bayoishola20.png "Preview")
+![Preview](https://github.com/bayoishola20/zipcode/blob/master/assets/img/zipcode_bayoishola20.png "Preview")
 
 [bayoishola20](https://github.com/bayoishola20/)
 
